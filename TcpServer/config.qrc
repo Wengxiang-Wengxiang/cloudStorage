@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/ip_port">
+        <file>server.config</file>
+    </qresource>
+    <qresource prefix="/database"/>
+</RCC>
