@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/ip_port">
+        <file>client.config</file>
+    </qresource>
+</RCC>
